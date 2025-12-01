@@ -6,7 +6,7 @@ public class Task1 {
 
     public static void main(String[] args) {
 
-        String developer = "Аршанова"; // замени на свою
+        String developer = "Аршанова";
         String received = "Дата получения задания: 01.12.2025 17:00";
 
         Date submit = new Date();
@@ -16,3 +16,4 @@ public class Task1 {
         System.out.println("Дата сдачи задания: " + submit);
     }
 }
+
